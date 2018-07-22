@@ -1,6 +1,6 @@
 # movingBox
 
-Canvas based clipboard with multiple feature like merge,split,grawity behaviour etc.
+Canvas based clipboard with multiple feature like merge,split,grawity behaviour with rectangle object.
 
 Problem statement
 
